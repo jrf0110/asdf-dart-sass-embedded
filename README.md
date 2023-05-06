@@ -2,7 +2,6 @@
 
 # asdf-dart-sass-embedded [![Build](https://github.com/jrf0110/asdf-dart-sass-embedded/actions/workflows/build.yml/badge.svg)](https://github.com/jrf0110/asdf-dart-sass-embedded/actions/workflows/build.yml) [![Lint](https://github.com/jrf0110/asdf-dart-sass-embedded/actions/workflows/lint.yml/badge.svg)](https://github.com/jrf0110/asdf-dart-sass-embedded/actions/workflows/lint.yml)
 
-
 [dart-sass-embedded](https://github.com/jrf0110/dart-sass-embedded) plugin for the [asdf version manager](https://asdf-vm.com).
 
 </div>
@@ -13,13 +12,6 @@
 - [Install](#install)
 - [Contributing](#contributing)
 - [License](#license)
-
-# Dependencies
-
-**TODO: adapt this section**
-
-- `bash`, `curl`, `tar`: generic POSIX utilities.
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
 
 # Install
 
