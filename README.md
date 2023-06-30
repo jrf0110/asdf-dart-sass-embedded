@@ -42,12 +42,6 @@ dart-sass-embedded --version
 Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to
 install & manage versions.
 
-# Contributing
-
-Contributions of any kind welcome! See the [contributing guide](contributing.md).
-
-[Thanks goes to these contributors](https://github.com/jrf0110/asdf-dart-sass-embedded/graphs/contributors)!
-
 # License
 
 See [LICENSE](LICENSE) © [John Fawcett](https://github.com/jrf0110/)
