@@ -6,14 +6,14 @@
 
 </div>
 
-# Contents
+## Contents
 
 - [Dependencies](#dependencies)
 - [Install](#install)
 - [Contributing](#contributing)
 - [License](#license)
 
-# Install
+## Install
 
 Plugin:
 
@@ -42,6 +42,6 @@ dart-sass-embedded --version
 Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to
 install & manage versions.
 
-# License
+## License
 
 See [LICENSE](LICENSE) © [John Fawcett](https://github.com/jrf0110/)
